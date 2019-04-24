@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979775485386",
+    "firebase_url": "https://fmimarket-d9ec2.firebaseio.com",
+    "project_id": "fmimarket-d9ec2",
+    "storage_bucket": "fmimarket-d9ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979775485386:android:163f70980ae98932",
+        "android_client_info": {
+          "package_name": "com.example.fmimarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979775485386-dg8l2oim2rq29q4hv9149o5pvvrits64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fmimarket",
+            "certificate_hash": "72b315dd9454e8d26652672cb2d5735338800572"
+          }
+        },
+        {
+          "client_id": "979775485386-9559nj6cff964pageqig2k1deqjco4ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAugimojIaMPyFreH8ZQX_6wouYWYkmzDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979775485386-9559nj6cff964pageqig2k1deqjco4ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
